@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bio</string>
+     <string name="imgView">Image</string>
+    <string name="details"> Hii this is Nitesh and He likes to make Android Apps</string>
+    <string name="details_image">Details Image</string>
+</resources>
